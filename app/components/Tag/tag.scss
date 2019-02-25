@@ -1,0 +1,14 @@
+.tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  background: rgba(0, 0, 0, .1);
+  color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  transition: .3s;
+
+  &:hover {
+    background: orange;
+  }
+}
