@@ -1,4 +1,5 @@
 # tagscloud
 
-npm i
-npm run dev
+- npm i
+- npm run dev
+- port 8000
